@@ -1,5 +1,5 @@
 body {
-    background: rgb(221, 168, 168);
+    background: #DCF2F1;
 }
 
 .container {
@@ -9,6 +9,7 @@ body {
 
 h1 {
     font-size: 45px;
+    /* color: white; */
 }
 table {
   margin: auto;
